@@ -1,0 +1,11 @@
+Cloning "https://github.com/mulaievaRH/DO180-apps" ...
+	Commit:	f7cd8963ef353d9173c3a21dcccf402f3616840b (Initial commit, including all apps previously in course)
+	Author:	Jordi Sola <someth2say@gmail.com>
+	Date:	Fri Oct 4 13:04:03 2019 +0200
+Caching blobs under "/var/cache/blobs".
+Getting image source signatures
+Copying blob sha256:f1e961fe4c5192ab9f8e241a2efc674779623ac6a3ed49ee9a1a5b3b8425fe0d
+Copying blob sha256:d5d526ce008fc835b6ef4c958941bb319a52baa20dbe5fbd34941340f1826549
+Copying blob sha256:85da247eae42192a3cb668e661cddcbb37c21e3671f3440046fa1c83d6252071
+Copying blob sha256:1c9f515fc6ab2b7ebfcaffd8af681b68869d78a3b19c69e87c296363ab1bc2fe
+Copying blob sha256:1d2c4ce43b78cb9a97ede7f19ad1406a43ee50532568bda660193e4a404b424f
